@@ -1,0 +1,9 @@
+name: Pelagatos
+description: Pelagatos server
+author: Cemarquez
+main: pelagatos.main.Main
+version: 1.1
+commands:
+    back:
+      description: back.
+      usage: /<command> [args]
